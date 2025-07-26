@@ -34,8 +34,3 @@ A Salesforce-powered solution for managing a premium men's fashion brand—from 
 - *Flow Builder & Process Automation*
 - *Custom Objects & Apex Triggers*
 - *Reports & Dashboards*
-
----
-## Poject Demo Link:
-
-Link:https://drive.google.com/file/d/1B4XGO13LFjG-Uhd3KdLd-HrOqjNl7RfO/view?usp=sharing
