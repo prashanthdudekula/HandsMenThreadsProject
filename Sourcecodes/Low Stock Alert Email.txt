@@ -1,0 +1,7 @@
+Dear Inventory Manager,
+This is to inform you that the stock for the following product is running low:
+Product Name: {!Inventory__c.HandsMen_Product__c}
+Current Stock Quantity: {!Inventory__c.Stock_Quantity__c}
+Please take the necessary steps to restock this item immediately.
+Best Regards,  
+Inventory Monitoring System

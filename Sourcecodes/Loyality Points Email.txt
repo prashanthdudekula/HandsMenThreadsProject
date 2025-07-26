@@ -1,0 +1,3 @@
+Congratulations! You are now a {!HandsMen_Customer__c.Loyalty_Status__c} member and you are eligible for our Loyalty Rewards Program.
+Enjoy exclusive discounts, early access to offers, and special member benefits.
+Thank you for your continued Support.

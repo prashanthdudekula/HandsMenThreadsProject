@@ -1,0 +1,9 @@
+Dear {!HandsMen_Order__c.HandsMen_Customer__c},
+
+Your order #{!HandsMen_Order__c.Name} has been confirmed!
+
+Thank you for shopping with us.
+
+Best Regards,
+
+Sales Team
